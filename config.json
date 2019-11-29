@@ -1,0 +1,6 @@
+{
+    "path": "/Users/ardiismail/Documents/Works/[CODE]/GO-Projects/",
+    "projectName": "ms-customer",
+    "domain":"customer",
+    "models":"id:int64,namadepan:string,namabelakang:string,alamat:string,email:string"
+  }
